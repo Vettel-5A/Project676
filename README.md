@@ -1,2 +1,2 @@
-# Comp Manager
+# CompManager
 To be revealed.
