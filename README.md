@@ -1,2 +1,2 @@
-# PitWall
+# Comp Manager
 To be revealed.
